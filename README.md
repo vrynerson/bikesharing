@@ -4,7 +4,7 @@
 
 ## Overview of the analysis: 
 
-Citi Bikes have been a successful transportation option in New York City for nearly the last decade. From the daily commute to out of town visitors, biking has shown itself to be a great way to get to where you need to be or explore the city. The analysis on data from August, 2018 in New York will help the client to convince investors that a bike-sharing program will be beneficial to the city of Des Moines, Iowa. 
+Citi Bikes have been a successful transportation option in New York City for the last decade. From the daily commute to out of town visitors, biking has shown itself to be a great way to get to where you need to be or explore the city. The analysis on data from August 2019 in New York will help the client to convince investors that a bike-sharing program will be beneficial to the city of Des Moines, Iowa. 
 
 ## Results: 
 Description of each visualization.
@@ -52,4 +52,15 @@ This heat map shows the number of riders, broken down by sex: male, female, and 
 This heat map shows the number of riders by sex and then divides the data into user type. The user types are customer and subscriber, which correspond to a pay-per-ride model or a monthly/yearly subscription model, respectively. The subscribing riders have the most use on Thursdays, and the pay-per-ride customers have the most rides on Saturdays.
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+The most concentrated areas of start and end locations were mid- and lower- east and west sides of Manhattan. This could be due to the tourist attractions, i.e. Times Square, Empire State building, museums and hotels. This could also be due to the office buildings nearby.
+
+The highest amount of riders, male and female, borrow Citi Bikes for 5 and 6 minutes, respectively. Generally speaking, if you are in New York, the destination is not too far away; most people can ride a mile easily in 5 or 6 minutes.
+
+The subscribers to the Citi Bike service tend to have the most amount of riders riding on Thursdays. This could mean they are commuters, so they live locally and use this service often enough to subscribe monthly or yearly. The subways could be too full of people rushing to get home from their 4 day work week, so New Yorkers opt for above ground transportation.
+
+The non-subscribing customers have their highest amount of riders on Saturdays. These could be tourists and people that are wanting to see the city, but do not want to walk far or try to navigate the subway system. Or they want to take advantage of the nice August weather. (The dataset used is from August.) 
+
+This data could help the city of Des Moines create their own bicycle sharing model. The citizens of Des Moines could reduce their carbon footprint from daily commuters, promote healthier lifestyles, and generate jobs for bike maintenance. 
+
+An additional visualization that would have enhanced the visualizaiton story is a bar chart showing the peak hours of riding during the week. This would be similar to the heatmaps, but just another way for people to easily see the peak times. Another visualization that could have been included was a chart showing the start/end locations against time and day of week to visualize commuter vs tourist data.
