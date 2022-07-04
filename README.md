@@ -1,4 +1,4 @@
-# bikesharing
+# Bike Sharing Data Visualization
 
 <a href='https://public.tableau.com/app/profile/vienna.rynerson/viz/NYCCitiBikeAnalysis_16569108498070/NYCCitiBike'>Tableau NYC Citi Bike Analysis Story</a>
 
