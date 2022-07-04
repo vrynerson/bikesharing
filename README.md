@@ -41,7 +41,7 @@ This heat map shows the number of riders per day of the week and time. There is 
 
 ### Trips by Sex (Weekday per Hour)
 
-[new image here]
+![trip_sex_weekday_hr](https://user-images.githubusercontent.com/98570777/177096062-7e863e5b-dea7-4dcb-98cd-3b27db15727d.png)
 </br>
 This heat map shows the number of riders, broken down by sex: male, female, and not reported, against time and day. There are two high volume riding hours at 5 and 6 pm on Thursday among male and female bike riders. Male riders exceed female riders by about 20,000.  
 
